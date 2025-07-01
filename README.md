@@ -1,4 +1,4 @@
-# MCP Filesystem App (Internship Submission)
+# MCP Filesystem App 
 
 ## 📂 Folder Structure
 
